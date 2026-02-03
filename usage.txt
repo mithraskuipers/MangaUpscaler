@@ -1,0 +1,3 @@
+python .\manga_upscaler.py -i .\test\ --gpu 1 -q balanced
+
+python .\manga-upscaler.py -i .\test-nested\ --nested --gpu 1 -q balanced --zip-chapters
